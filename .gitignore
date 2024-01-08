@@ -18,12 +18,6 @@ Thumbs.db
 logs/
 coverage/
 
-# Compiled files
-*.log
-*.min.js
-*.min.css
-
 # Dependency lock files
 package-lock.json
-yarn.lock
 
